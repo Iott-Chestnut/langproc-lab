@@ -29,7 +29,6 @@ int main () {
     }
   }
 
-  std::cout << "Number of comments and attributes removed: 0.\n";
     
   return 0;
 }
